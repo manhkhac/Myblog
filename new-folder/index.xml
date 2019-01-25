@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New folders on Academic</title>
+    <link>/new-folder/</link>
+    <description>Recent content in New folders on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="/new-folder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/new-folder/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/new-folder/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/new-folder/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/new-folder/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/new-folder/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>/new-folder/publications_featured/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/publications_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/new-folder/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/new-folder/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/new-folder/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Talks</title>
+      <link>/new-folder/talks_featured/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/new-folder/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/new-folder/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/new-folder/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/new-folder/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/new-folder/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/new-folder/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/new-folder/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
